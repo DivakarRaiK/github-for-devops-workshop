@@ -13,3 +13,6 @@ git remote add origin https://github.com/DivakarRaiK/github-for-devops-workshop.
 githubs to local the command is "git pull origin master" in this case
 Local to github the command is "git push origin master"
 ====OK new lines received successfully====
+create new branch command is = git branch <branch-name>
+switch to new branch command is = git checkout <branch-name> or git switch <branch name>
+Shortcut: create and switch in one command is = git checkout -b <branch-name>
