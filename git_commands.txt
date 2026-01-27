@@ -12,3 +12,4 @@ git remote add origin https://github.com/DivakarRaiK/github-for-devops-workshop.
 @@@@@@@@@@@@@@This is some new changes#########################
 githubs to local the command is "git pull origin master" in this case
 Local to github the command is "git push origin master"
+====OK new lines received successfully====
