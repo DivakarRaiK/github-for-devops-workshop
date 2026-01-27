@@ -4,3 +4,8 @@ git add <file name> or git add .
 from statging to move back to untracked command is = git rm --cached <file name>
 staging to tracked =  git commit -m "added tetsing files"
 lets say you deleted <testing.py> command (rm testing.py) inorder to restore that file command is = git restore testing.py
+
+git remote add origin https://github.com/DivakarRaiK/github-for-devops-workshop.git
+  162  git remote -v
+  163  git remote set-url origin https://here u should add git token@github.com/DivakarRaiK/github-for-devops-workshop.git
+  164  git push origin master
